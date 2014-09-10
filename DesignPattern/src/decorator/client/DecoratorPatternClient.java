@@ -6,6 +6,9 @@ import decorator.component.IceCream;
 import decorator.decorator.Cashew;
 import decorator.decorator.Peanut;
 
+/**
+ * 装饰者模式在Java的Stream中应用广泛
+ * */
 public class DecoratorPatternClient {
 	
 	public static void main(String[] args) {
